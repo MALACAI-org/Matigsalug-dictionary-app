@@ -1,0 +1,246 @@
+[
+[
+"@A",
+"<h1 class=\"Lexeme\">"
+],
+[
+"@a",
+"</h1>"
+],
+[
+"@C",
+"<p class=\"Variant\">Variant: <span class=\"Variant\">"
+],
+[
+"@D",
+"<p class=\"MainEntry\">See: <span class=\"MainEntry\">"
+],
+[
+"@E",
+"<p class=\"Pronunciation\">Pronunciation: <span class=\"Pronunciation\">"
+],
+[
+"@F",
+"<p class=\"POS\">Part of speech: <span class=\"POS\">"
+],
+[
+"@G",
+"<section class=\"Sense\" id=\""
+],
+[
+"@H",
+"\"><span class=\"SenseNumber\">"
+],
+[
+"@I",
+"<p class=\"MatigsalugDefinition\">Matigsalug definition/word(s): <span class=\"MatigsalugDefinition\">"
+],
+[
+"@J",
+"<p class=\"MatigsalugDefinitionDF\">DF Matigsalug definition: <span class=\"MatigsalugDefinitionDF\">"
+],
+[
+"@K",
+"<p class=\"MatigsalugDefinitionRF\">RF Matigsalug definition: <span class=\"MatigsalugDefinitionRF\">"
+],
+[
+"@L",
+"<p class=\"EnglishDefinition\">Usage: <span class=\"EnglishDefinition\">"
+],
+[
+"@M",
+"<p class=\"GeneralNote\">Note: <span class=\"GeneralNote\">"
+],
+[
+"@N",
+"<p class=\"GrammarNote\">Grammar note: <span class=\"GrammarNote\">"
+],
+[
+"@O",
+"<p class=\"EnglishExampleSentenceZO\">ZO Sentence: <span class=\"EnglishExampleSentenceZO\">"
+],
+[
+"@P",
+"<p class=\"EnglishExampleSentence\">Sentence: <span class=\"EnglishExampleSentence\">"
+],
+[
+"@Q",
+"<p class=\"MatigsalugExampleSentence\">Translation: <span class=\"MatigsalugExampleSentence\">"
+],
+[
+"@R",
+"<p class=\"Plural\">Plural is: <span class=\"Plural\">"
+],
+[
+"@S",
+"<p class=\"SeeAlso\">See also: <span class=\"SeeAlso\">"
+],
+[
+"@T",
+"<p class=\"CompareWith\">Compare with: <span class=\"CompareWith\">"
+],
+[
+"@U",
+"<p class=\"Usage\">Usage: <span class=\"Usage\">"
+],
+[
+"@V",
+"<p class=\"ParadigmLabel\">Paradigm label: <span class=\"ParadigmLabel\">"
+],
+[
+"@W",
+"<p class=\"ParadigmForm\">Paradigm form: <span class=\"ParadigmForm\">"
+],
+[
+"@X",
+"<p class=\"SemanticDomain\">Semantic domain: <span class=\"SemanticDomain\">"
+],
+[
+"@Y",
+"<p class=\"Status\">Status: <span class=\"Status\">"
+],
+[
+"@Z",
+"<p class=\"EditDate\">Edited: <span class=\"EditDate\">"
+],
+[
+"@t",
+"/</span>"
+],
+[
+"@e",
+"</section>"
+],
+[
+"@f",
+"</section><hr>"
+],
+[
+"@c",
+"</span></p>"
+],
+[
+"@{",
+"<b>"
+],
+[
+"@}",
+"</b>"
+],
+[
+"^",
+" something"
+],
+[
+"*",
+" te "
+],
+[
+"@0",
+" the "
+],
+[
+"@1",
+" you "
+],
+[
+"@2",
+" ne "
+],
+[
+"@3",
+" that "
+],
+[
+"@4",
+" to "
+],
+[
+"@5",
+" is "
+],
+[
+"@6",
+" of "
+],
+[
+"@7",
+"/201"
+],
+[
+"@8",
+"ready"
+],
+[
+"@9",
+"thing"
+],
+[
+"@+",
+" or "
+],
+[
+"@-",
+"egpa"
+],
+[
+"@=",
+" an "
+],
+[
+"@_",
+" wey "
+],
+[
+"@m",
+"/Jan"
+],
+[
+"@n",
+"/Feb"
+],
+[
+"@o",
+"/Mar"
+],
+[
+"@p",
+"/Apr"
+],
+[
+"@q",
+"/May"
+],
+[
+"@r",
+"/Jun"
+],
+[
+"@u",
+"/Jul"
+],
+[
+"@v",
+"/Aug"
+],
+[
+"@w",
+"/Sep"
+],
+[
+"@x",
+"/Oct"
+],
+[
+"@y",
+"/Nov"
+],
+[
+"@z",
+"/Dec"
+],
+[
+"~~",
+"@"
+]
+]

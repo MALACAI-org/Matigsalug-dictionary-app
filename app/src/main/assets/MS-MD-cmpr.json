@@ -1,0 +1,450 @@
+[
+[
+"@A",
+"<h1 class=\"Lexeme\">"
+],
+[
+"@B",
+"<p class=\"Variant\">Variant: <span class=\"Variant\">"
+],
+[
+"@C",
+"<p class=\"Variant1\">Variant 1: <span class=\"Variant1\">"
+],
+[
+"@D",
+"<p class=\"Variant2\">Variant 2: <span class=\"Variant2\">"
+],
+[
+"@E",
+"<p class=\"VariantNote\">Variant note: <span class=\"VariantNote\">"
+],
+[
+"@F",
+"<p class=\"Phonemic\">Phonemic: <span class=\"Phonemic\">"
+],
+[
+"@G",
+"<p class=\"Pronunciation\">Pronunciation: <span class=\"Pronunciation\">"
+],
+[
+"@H",
+"<p class=\"LexemePOS\">Lexeme part of speech: <span class=\"LexemePOS\">"
+],
+[
+"@I",
+"<p class=\"LexemeGloss\">Lexeme gloss: <span class=\"LexemeGloss\">"
+],
+[
+"@J",
+"<p class=\"DonatedCebuano\">From Cebuano: <span class=\"DonatedCebuano\">"
+],
+[
+"@K",
+"<p class=\"DonatedCebuano\">From Cebuano</p>"
+],
+[
+"@L",
+"<p class=\"DonatedEnglish\">From English: <span class=\"DonatedEnglish\">"
+],
+[
+"@M",
+"<p class=\"DonatedSpanish\">From Spanish: <span class=\"DonatedSpanish\">"
+],
+[
+"@N",
+"<p class=\"DonatedSpanish\">From Spanish</p>"
+],
+[
+"@O",
+"<p class=\"ProtoForm\">Proto form: <span class=\"ProtoForm\">"
+],
+[
+"@P",
+"<section class=\"Sense\" id=\""
+],
+[
+"@Q",
+"\"><span class=\"SenseNumber\">"
+],
+[
+"@R",
+"<p class=\"POS\">Part of speech: <span class=\"POS\">"
+],
+[
+"@S",
+"<p class=\"ScientificName\">Scientific name: <span class=\"ScientificName\">"
+],
+[
+"@T",
+"<p class=\"Gloss\">"
+],
+[
+"~v",
+"<p class=\"Gloss\"><span class=\"GlossIntroduction\">"
+],
+[
+"@W",
+"<span class=\"MainGloss\">"
+],
+[
+"~w",
+"</span><span class=\"Extra\">)</span> <span class=\"MainGloss\">"
+],
+[
+"@X",
+"<span class=\"CaseZ\">"
+],
+[
+"@Y",
+"<span class=\"Case\">"
+],
+[
+"~y",
+"</span><span class=\"Extra\"> (</span><span class=\"Case\">"
+],
+[
+"@Z",
+"<span class=\"Affixation\">"
+],
+[
+"~t",
+"<span class=\"Extra\">"
+],
+[
+"~u",
+"<span class=\"Extra\"> "
+],
+[
+"~z",
+"</span><span class=\"Extra\"> (</span><span class=\"Affixation\">"
+],
+[
+"~p",
+"<p class=\"Gloss\"><span class=\"Extra\">(</span><span class=\"Affixation\">"
+],
+[
+"@x",
+" </span><span class=\"InflectedForm\">"
+],
+[
+"~q",
+"(</span><span class=\"InflectedForm\">"
+],
+[
+"@y",
+"/</span><span class=\"Variant\">"
+],
+[
+"@b",
+"<p class=\"MatigsalugDefinition\">Matigsalug definition: <span class=\"MatigsalugDefinition\">"
+],
+[
+"@c",
+"<p class=\"GrammarNote\">Grammar note: <span class=\"GrammarNote\">"
+],
+[
+"@d",
+"<p class=\"CulturalNote\">Cultural note: <span class=\"CulturalNote\">"
+],
+[
+"@e",
+"<p class=\"Morphophonemics\">Morphophonemics: <span class=\"Morphophonemics\">"
+],
+[
+"@f",
+"<p class=\"MatigsalugExampleSentence\">Sentence: <span class=\"MatigsalugExampleSentence\">"
+],
+[
+"@g",
+"<p class=\"EnglishTranslationSentence\">Translation: <span class=\"EnglishTranslationSentence\">"
+],
+[
+"@V",
+"<p class=\"EnglishIndex\">English word(s): <span class=\"EnglishIndex\">"
+],
+[
+"~r",
+"; <span class=\"EnglishIndex\">"
+],
+[
+"@h",
+"<p class=\"SeeAlso\">See also: <span class=\"SeeAlso\">"
+],
+[
+"@i",
+"<p class=\"Synonym\">Synonym: <span class=\"Synonym\">"
+],
+[
+"@j",
+"<p class=\"OverlappingSynonym\">Overlapping synonym: <span class=\"OverlappingSynonym\">"
+],
+[
+"@k",
+"<p class=\"Antonym\">Antonym: <span class=\"Antonym\">"
+],
+[
+"@l",
+"<p class=\"SemanticClass\">Semantic class: <span class=\"SemanticClass\">"
+],
+[
+"@m",
+"<p class=\"SemanticClass\">DDP semantic class: <span class=\"SemanticClass\">"
+],
+[
+"~s",
+"; <span class=\"SemanticClass\">"
+],
+[
+"@n",
+"<p class=\"DataQuestion\">Data question: <span class=\"DataQuestion\">"
+],
+[
+"@o",
+"<p class=\"Comment\">Comment: <span class=\"Comment\">"
+],
+[
+"@p",
+"<p class=\"CreationDate\">Created: <span class=\"CreationDate\">"
+],
+[
+"@q",
+"<p class=\"EditDate\">Edited: <span class=\"EditDate\">"
+],
+[
+"@r",
+"<p class=\"UsageLevel\">Usage level: <span class=\"UsageLevel\">"
+],
+[
+"@s",
+"</h1>"
+],
+[
+"@u",
+"</span>"
+],
+[
+"@v",
+"</section>"
+],
+[
+"@w",
+"</span></p>"
+],
+[
+"@[",
+"<sub>"
+],
+[
+"@]",
+"</sub>"
+],
+[
+"~N",
+"</sub></h1>"
+],
+[
+"`",
+"<b>"
+],
+[
+"@}",
+"</b>"
+],
+[
+"#",
+"</b> "
+],
+[
+"~Z",
+"</b> <b>"
+],
+[
+"@(",
+"<i>"
+],
+[
+"@)",
+"</i>"
+],
+[
+"~O",
+"</i> "
+],
+[
+"^",
+"eg&gt;&lt;"
+],
+[
+"*",
+"&gt;&lt;\u00f8-"
+],
+[
+"~o",
+"for someone"
+],
+[
+"~P",
+" te "
+],
+[
+"~Q",
+" something"
+],
+[
+"~R",
+"or something"
+],
+[
+"@1",
+" the "
+],
+[
+"@2",
+" ne "
+],
+[
+"@3",
+" ka"
+],
+[
+"@4",
+"ing "
+],
+[
+"@5",
+"/2009"
+],
+[
+"@.",
+"/200"
+],
+[
+"@;",
+"/201"
+],
+[
+"@6",
+" because "
+],
+[
+"@7",
+"to "
+],
+[
+"~a",
+"agent"
+],
+[
+"@8",
+"an "
+],
+[
+"@9",
+" diy\u00e8 te "
+],
+[
+"@+",
+" eg"
+],
+[
+"@-",
+" of "
+],
+[
+"@=",
+"ang"
+],
+[
+"@_",
+" wey "
+],
+[
+"@!",
+"location"
+],
+[
+"@0",
+" a "
+],
+[
+"~M",
+" and "
+],
+[
+"~S",
+" ne eg"
+],
+[
+"~T",
+" seini "
+],
+[
+"~U",
+" su "
+],
+[
+"~V",
+" iyan sika se "
+],
+[
+"~W",
+" seini ne lalag"
+],
+[
+"~X",
+"to be"
+],
+[
+"~Y",
+"egka"
+],
+[
+"~A",
+"/Jan"
+],
+[
+"~B",
+"/Feb"
+],
+[
+"~C",
+"/Mar"
+],
+[
+"~D",
+"/Apr"
+],
+[
+"~E",
+"/May"
+],
+[
+"~F",
+"/Jun"
+],
+[
+"~G",
+"/Jul"
+],
+[
+"~H",
+"/Aug"
+],
+[
+"~I",
+"/Sep"
+],
+[
+"~J",
+"/Oct"
+],
+[
+"~K",
+"/Nov"
+],
+[
+"~L",
+"/Dec"
+]
+]

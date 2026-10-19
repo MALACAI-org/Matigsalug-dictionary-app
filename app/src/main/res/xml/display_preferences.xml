@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/display_preferences_ms" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="linguisticView"
+            android:summary="@string/summary_linguistic_preference_ms"
+            android:title="@string/title_linguistic_preference_ms" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

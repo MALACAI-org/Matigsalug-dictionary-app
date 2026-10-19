@@ -1,0 +1,45 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="info.SUMALCA.MSDict">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name_ms"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+
+        <activity
+            android:name="info.SUMALCA.MSDict.MainActivity"
+            android:label="@string/app_name_ms" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.SUMALCA.MSDict.DisplayEntryActivity"
+            android:label="@string/title_activity_display_entry_ms"
+            android:parentActivityName="info.SUMALCA.MSDict.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="info.SUMALCA.MSDict.MainActivity" />
+        </activity>
+        <activity
+            android:name="info.SUMALCA.MSDict.BrowseActivity"
+            android:label="@string/title_activity_browse_ms" >
+        </activity>
+        <activity
+            android:name="info.SUMALCA.MSDict.MainSettingsActivity"
+            android:label="@string/title_activity_settings_ms"
+            android:parentActivityName="info.SUMALCA.MSDict.MainActivity" >
+        </activity>
+        <activity
+            android:name="info.SUMALCA.MSDict.DisplaySettingsActivity"
+            android:label="@string/title_activity_settings_ms"
+            android:parentActivityName="info.SUMALCA.MSDict.BrowseActivity" >
+        </activity>
+    </application>
+
+</manifest>
