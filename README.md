@@ -270,7 +270,8 @@ The APK is under `build/app/outputs/flutter-apk/`; the Play app bundle is under
 The initial migration was checked on Android 16: the signed Flutter APK installed
 over the archived 0.22 APK, launched, and searched the bundled dictionary in
 airplane mode. Linux release builds and phone/desktop widget checks pass.
-Windows runners and CI are present, but a Windows build has not yet been verified.
+GitHub Actions also verifies the Windows build; Windows runtime behaviour has
+not yet been tested.
 
 Version 0.5 also passed an emulator upgrade from the 1.0.0 test build, offline
 photo display/enlargement, swiping between entries, the shared linguistic switch,

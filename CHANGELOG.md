@@ -52,6 +52,8 @@ while testing and improving the app.
 
 - Python converter/photo tests, bundled-data verification, Dart formatting,
   Flutter analysis and phone/desktop widget tests pass.
+- GitHub Actions passes its checks and builds Android, Linux and Windows.
+  A successful Windows build does not yet establish Windows runtime behaviour.
 - Android emulator checks covered upgrading from the original APK and earlier
   Flutter builds, offline search and photos, entry navigation, linked words,
   dark mode and About information.
