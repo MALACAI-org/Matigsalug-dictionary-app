@@ -27,9 +27,43 @@ render.experimental.xml
 # Keystore files
 *.jks
 *.keystore
+*.p12
+*.pfx
+*.pepk
+keystore
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local Google Play signing enrollment files
+/pepk.jar
+/encryption_public_key.pem
+/play-signing/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
 # Android Profiling
 *.hprof
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/flutter/ephemeral/
+**/Flutter/ephemeral/
+**/GeneratedPluginRegistrant.*
+coverage/
+android/key.properties
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/gradle/wrapper/gradle-wrapper.jar
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

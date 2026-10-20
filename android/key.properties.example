@@ -1,0 +1,8 @@
+# Copy to key.properties (ignored by Git). Confirm against the OLD Play listing.
+# Do not use the Dart package name or infer this from the Kotlin namespace.
+applicationId=info.MLCA.MSDict
+# Absolute path, or a path relative to the android directory.
+storeFile=
+storePassword=
+keyAlias=
+keyPassword=

@@ -1,0 +1,33 @@
+name: matigsalug_dictionary
+description: An offline Matigsalug and English dictionary for Android and desktop.
+publish_to: none
+version: 0.5.0+6
+
+environment:
+  sdk: ^3.13.5
+  flutter: '>=3.47.7'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dictionary.json
+    - assets/fonts/OFL.txt
+    - assets/photos/
+  fonts:
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
+        - asset: assets/fonts/NotoSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/NotoSans-Italic.ttf
+          style: italic
