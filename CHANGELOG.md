@@ -31,8 +31,8 @@ while testing and improving the app.
 - Preserve the published Android package `info.MLCA.MSDict` and original signing
   identity. Target Android 16 (API 36), with Android 7.0 (API 24) as the minimum.
 - Add an adaptive Ubuntu desktop reading pane and document installation.
-  Include a Windows target and build workflow; a Windows binary is not part of
-  this release.
+  Include a Windows target, build workflow and portable Windows ZIP with
+  installation instructions and app-local Microsoft runtime libraries.
 - Replace the Python converter with a reproducible import from the parallel
   dictionary repository, including optional fetching, reverse indexes, data
   checks and cached WebP photo resizing. Original source data and photos remain
@@ -46,7 +46,9 @@ while testing and improving the app.
 - `matigsalug-dictionary-0.5.0-linux-x64.tar.gz`: complete Linux application
   bundle, built on Ubuntu 26.04; GTK 3 libraries are required. Older Ubuntu
   releases have not been verified.
-- `SHA256SUMS`: checksums for the three downloads.
+- `matigsalug-dictionary-0.5.0-windows-x64.zip`: complete Windows x64 preview;
+  extract all files and run `matigsalug_dictionary.exe`.
+- `SHA256SUMS`: checksums for the four downloads.
 
 ### Validation and remaining work
 

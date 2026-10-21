@@ -178,6 +178,11 @@ flutter build windows --release
 GitHub Actions runs Python/Dart/widget checks and builds Android debug, Linux
 and Windows. Builds use the committed offline data; checking it against the
 source checkout is a separate local step when refreshing content.
+Successful Windows builds also save a ZIP download as the
+`matigsalug-dictionary-windows-x64` workflow artifact for 14 days. It contains
+the complete application and app-local Microsoft Visual C++ runtime DLLs.
+To package a local Windows release after building, run
+`pwsh -File tool/package_windows.ps1`; outputs are under `build/releases/`.
 
 To render phone and desktop previews using the bundled dictionary, run
 `flutter test tool/capture_preview.dart`. Images are saved in `build/previews/`.
@@ -235,6 +240,18 @@ together if moving the app; copying only the executable is insufficient.
 To update an installed copy, close the app, build the new Linux release, and
 rerun the installation block above from the repository directory. Rebuilding
 alone does not update the installed copy.
+
+## Windows installation
+
+Download `matigsalug-dictionary-0.5.0-windows-x64.zip` from
+[the release page](https://github.com/MALACAI-org/Matigsalug-dictionary-app/releases/tag/v0.5.0).
+Right-click it, choose **Extract All**, and open `matigsalug_dictionary.exe`
+inside the extracted folder. Keep all DLLs and the `data` folder alongside the
+executable. This x64 preview includes the required Microsoft runtime libraries;
+Docker, Flutter and Visual Studio are not needed to run it.
+
+See [Windows installation instructions](docs/windows-installation.md) for
+shortcuts, updating, runtime troubleshooting and the unsigned preview status.
 
 ## Android release work
 
